@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95e0b630.chunk.css",
+    "main.js": "/static/js/main.d7aa4a2c.chunk.js",
+    "main.js.map": "/static/js/main.d7aa4a2c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f6e7cd38.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f6e7cd38.js.map",
+    "static/js/2.5cef9066.chunk.js": "/static/js/2.5cef9066.chunk.js",
+    "static/js/2.5cef9066.chunk.js.map": "/static/js/2.5cef9066.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ec98e77b0be88b3042a3bf83ce578a66.js": "/precache-manifest.ec98e77b0be88b3042a3bf83ce578a66.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.95e0b630.chunk.css.map": "/static/css/main.95e0b630.chunk.css.map",
+    "static/js/2.5cef9066.chunk.js.LICENSE": "/static/js/2.5cef9066.chunk.js.LICENSE",
+    "static/media/app-icon.png": "/static/media/app-icon.df812b7c.png",
+    "static/media/AboutAppPage.css": "/static/media/logo.29d11792.png",
+    "static/media/biodata.png": "/static/media/biodata.a7c3d557.png",
+    "static/media/penghasilan.png": "/static/media/penghasilan.613878d5.png",
+    "static/media/perhiasan.png": "/static/media/perhiasan.221cbf54.png",
+    "static/media/perniagaan.svg": "/static/media/perniagaan.240c271c.svg",
+    "static/media/pertanian.png": "/static/media/pertanian.fd5a5dc3.png",
+    "static/media/rikaz.png": "/static/media/rikaz.8b8f8e35.png",
+    "static/media/ternak.png": "/static/media/ternak.1811dfd3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6e7cd38.js",
+    "static/js/2.5cef9066.chunk.js",
+    "static/css/main.95e0b630.chunk.css",
+    "static/js/main.d7aa4a2c.chunk.js"
+  ]
+}
