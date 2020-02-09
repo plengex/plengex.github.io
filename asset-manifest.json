@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.afa59829.chunk.css",
-    "main.js": "/static/js/main.3ea66a2a.chunk.js",
-    "main.js.map": "/static/js/main.3ea66a2a.chunk.js.map",
+    "main.css": "/static/css/main.eba0c042.chunk.css",
+    "main.js": "/static/js/main.6284e49a.chunk.js",
+    "main.js.map": "/static/js/main.6284e49a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f6e7cd38.js",
     "runtime-main.js.map": "/static/js/runtime-main.f6e7cd38.js.map",
-    "static/js/2.6652b0af.chunk.js": "/static/js/2.6652b0af.chunk.js",
-    "static/js/2.6652b0af.chunk.js.map": "/static/js/2.6652b0af.chunk.js.map",
+    "static/js/2.2c97d60f.chunk.js": "/static/js/2.2c97d60f.chunk.js",
+    "static/js/2.2c97d60f.chunk.js.map": "/static/js/2.2c97d60f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.27b6d27e4be67d682883da737ae5fbd1.js": "/precache-manifest.27b6d27e4be67d682883da737ae5fbd1.js",
+    "precache-manifest.b823be12a822a3efb2f7e35a555bcd43.js": "/precache-manifest.b823be12a822a3efb2f7e35a555bcd43.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.afa59829.chunk.css.map": "/static/css/main.afa59829.chunk.css.map",
-    "static/js/2.6652b0af.chunk.js.LICENSE": "/static/js/2.6652b0af.chunk.js.LICENSE",
+    "static/css/main.eba0c042.chunk.css.map": "/static/css/main.eba0c042.chunk.css.map",
+    "static/js/2.2c97d60f.chunk.js.LICENSE": "/static/js/2.2c97d60f.chunk.js.LICENSE",
     "static/media/app-icon.png": "/static/media/app-icon.df812b7c.png",
     "static/media/HistoryKategoriPage.css": "/static/media/back-icon.2c5f464f.png",
     "static/media/biodata.png": "/static/media/biodata.a7c3d557.png",
     "static/media/AboutDeveloperPage.css": "/static/media/linkedin.4b475fb3.svg",
     "static/media/HeaderLogin.css": "/static/media/logout.877fd889.png",
-    "static/media/HeaderNonLogin.css": "/static/media/login.a181d29b.png",
     "static/media/AboutAppPage.css": "/static/media/logo.29d11792.png",
     "static/media/myphoto.jpg": "/static/media/myphoto.71000d28.jpg",
     "static/media/penghasilan.png": "/static/media/penghasilan.613878d5.png",
@@ -29,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f6e7cd38.js",
-    "static/js/2.6652b0af.chunk.js",
-    "static/css/main.afa59829.chunk.css",
-    "static/js/main.3ea66a2a.chunk.js"
+    "static/js/2.2c97d60f.chunk.js",
+    "static/css/main.eba0c042.chunk.css",
+    "static/js/main.6284e49a.chunk.js"
   ]
 }
